@@ -1,0 +1,22 @@
+{
+  "name": "unosquare-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "supertest": "^6.0.1"
+  }
+}
